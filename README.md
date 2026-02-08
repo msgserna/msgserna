@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | Building Clean & Scalable Solutions
 
-I'm a Computer Science student passionate about creating **clean, fast, and user-friendly interfaces** while ensuring robust backend architectures. I focus on delivering complete solutions from planning to deployment, with emphasis on **code quality, best practices, and real-world usability**.
+I'm a Full Stack student passionate about creating **clean, fast, and user-friendly interfaces** while ensuring robust backend architectures. I focus on delivering complete solutions from planning to deployment, with emphasis on **code quality, best practices, and real-world usability**.
 
 ---
 
@@ -49,14 +49,14 @@ I'm expanding my knowledge in:
 
 ## 💼 Featured Projects
 
-### 🗺️ [Asistente Geoespacial / MAP-IA](link-to-repo)
+### 🗺️ [Asistente Geoespacial / MAP-IA](https://github.com/msgserna/geoespacial-ia)
 A geospatial assistant that combines modern UI with API integration and automated report generation. Built to demonstrate practical problem-solving with real-world data.
 
 **Tech:** React, Next.js, Tailwind, APIs, PDF generation
 
 ---
 
-### 📋 [Kanban with Task Auditing & Quality Management](link-to-repo)
+### 📋 [Kanban with Task Auditing & Quality Management](https://github.com/msgserna/kanban-godmode)
 A task management system with built-in audit trails and quality scoring for tasks, designed for teams that value transparency and performance tracking.
 
 **Tech:** React, TypeScript, Node.js, PostgreSQL
