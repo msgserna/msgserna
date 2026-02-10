@@ -1,4 +1,4 @@
-# Hi there, I'm Steven Garzon 👋
+# Hi there, I'm Steven Garzón 👋
 
 ## Full Stack Developer | Building Clean & Scalable Solutions
 
